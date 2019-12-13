@@ -2,7 +2,7 @@
 null,
 {"id":1,"battlerName":"Character1","characterIndex":0,"characterName":"Character1","classId":1,"equips":[1,0,1,3,4],"faceIndex":0,"faceName":"Character1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sophia","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Character2","characterIndex":0,"characterName":"Character2","classId":2,"equips":[2,6,5,7,4],"faceIndex":0,"faceName":"Character2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Fortis","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_7","characterIndex":6,"characterName":"Actor3","classId":3,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Edward","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
